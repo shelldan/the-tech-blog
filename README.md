@@ -59,7 +59,7 @@ heroku main
 ```
 Then heroku will create the application for you, go to heroku and find the app; then click 'Configure-Add-ons';
 Enter 'JAWSDB MySQL' to Add-ons
-Go back go Setting -> Reveal Config Vars -> add KEY and VALUE from .env file -> Go to Deploy -> 
+Go back go Setting -> Reveal Config Vars -> add KEY and VALUE from .env file -> Go to Deploy -> Deployment method -> Connect to GitHub -> search the repo-name -> Deploy Branch (main) -> once done -> open app
 
 ```
 git add 
